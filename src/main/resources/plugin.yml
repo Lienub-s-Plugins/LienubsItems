@@ -1,0 +1,4 @@
+name: LienubsItems
+version: '${project.version}'
+main: lienub.dev.lienubsitems.LienubsItems
+api-version: '1.20'
